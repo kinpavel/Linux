@@ -19,3 +19,4 @@
 tint2 &
 nitrogen --restore &
 conky &
+compton -b
